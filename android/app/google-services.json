@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961713981808",
+    "firebase_url": "https://marketingfx-3f8ea.firebaseio.com",
+    "project_id": "marketingfx-3f8ea",
+    "storage_bucket": "marketingfx-3f8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961713981808:android:4a7646f2c93637668aa7b5",
+        "android_client_info": {
+          "package_name": "com.trancether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961713981808-0htagh387td24alnvcofue4g0q1islan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Cubye9L2_bU-4hSZiWZ3tgWDVuBtAXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961713981808-0htagh387td24alnvcofue4g0q1islan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

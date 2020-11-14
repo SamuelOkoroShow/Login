@@ -2,6 +2,11 @@
   "name": "Trancether",
   "displayName": "Trancether",
   "expo": {
+    "splash": {
+  "image": "./app/images/splash.png",
+  "resizeMode": "cover",
+  "backgroundColor": "#000"
+  },
     "name": "Trancether",
     "slug": "Trancether",
     "version": "1.0.0",
